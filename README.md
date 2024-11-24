@@ -8,3 +8,6 @@
 ||| git remote add origin https://github.com/Kondrat357/my_NOTfirst_repozitory.git
 
 ## Добавили текст через браузер
+
+На локальном выполнили команду "pull"
+далее изменили файл добавив текст
